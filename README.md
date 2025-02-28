@@ -1,6 +1,3 @@
-# Namaste React
-
-...
 # parcel
 What parcel is doing for us :
 - Dev Build
